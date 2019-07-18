@@ -1,4 +1,4 @@
-# blockchein
+# microservice Node js
 task
 Для развертывания проекта на сервере нужно выполнить следующие действия:
 1.Зайти на сервер используя комманду sudo ssh -i for_test.pem ubuntu@54.89.156.213
